@@ -19,7 +19,7 @@ Then, you need to apply a filter to the pivot table on the *parent category*, an
 
 **Here is the pivot table produced:**
 
-Kickstarter-analysis1/Theater_Outcomes.png
+<img.src=Kickstarter-analysis1/Theater_Outcomes.png
 
 By following the directions here, you create a line graph from the pivot table:[GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
 
@@ -62,6 +62,7 @@ Least successful plays had financial goals of between $45,000 to $49,999.
 
 **Here is the graphic depicting play outcomes based on financial goals:**
 
+Kickstarter-analysis1/Outcomes_vs_Goals.pn
 
 ### Limitations of this data set and recommendations for additional graphs
 One limitation of the *kickstarter_challenge* data is that it only contains data for the years 2009 to 2017.
