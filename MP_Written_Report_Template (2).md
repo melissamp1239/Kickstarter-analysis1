@@ -19,9 +19,13 @@ Then, you need to apply a filter to the pivot table on the *parent category*, an
 
 **Here is the pivot table produced:**
 
+
+
 By following the directions here, you create a line graph from the pivot table:[GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
 
 **Here is the line graph created:**
+
+Kickstarter-analysis1/Theater_Outcomes_vs.Launch.png
 
 ### Deliverable Two
 I followed the directions at this link to create deliverable2: [GWU BOOTCAMP Deliverable 2 Challenge](https://courses.bootcampspot.com/courses/1020/assignments/20753?module_item_id=384168).
