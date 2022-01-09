@@ -11,7 +11,7 @@ The second deliverable's purpose was to create a visualization that portrays the
 ### Deliverable One
 I followed the directions for deliverable one at this link: [GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/assignments/20753?module_item_id=384168).
 
-First, you need to add a *years* column to the *Kickstarter_Challenge1.xls* worksheet. I calculated the *years* column by following the directions here: [Microsoft Support Page](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us).  You need to place in parenthesis next to equals year formula, the first cell referencing the 'Date created conversion'.  This **was not challenging** for me, however it could be challenging for someone else. 
+First, you need to add a *years* column to the *Kickstarter_Challenge1.xls* worksheet. I calculated the *years* column by following the directions here: [Microsoft Support Page](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us).  You need to place in parenthesis next to *=year* in the formula, the first cell referencing the 'Date created conversion'.  This **was not challenging** for me, however it could be challenging for someone else. 
 
 Next, you need to create a pivot table. The directions are here for creating a pivot table: [GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-1-pivoting-toward-success). Place the pivot table in a worksheet called *Theater Outcomes by Launch Date*.
 
