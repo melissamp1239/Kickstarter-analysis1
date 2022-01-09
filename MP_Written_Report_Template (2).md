@@ -19,7 +19,7 @@ Then, you need to apply a filter to the pivot table on the *parent category*, an
 
 **Here is the pivot table produced:**
 
-<img.src=Kickstarter-analysis1/Theater_Outcomes.png
+![Pivot table](https://
 
 By following the directions here, you create a line graph from the pivot table:[GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
 
