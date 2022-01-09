@@ -16,10 +16,12 @@ I followed the directions for deliverable one at this link: [GWU BOOTCAMP Delive
 [] Next, you need to create a pivot table. The directions are here for creating a pivot table: [GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-1-pivoting-toward-success). Place the pivot table in a worksheet called *Theater Outcomes by Launch Date*.
 
 [] Then, you need to apply a filter to the pivot table on the *parent category*, and filter on *theater*.  And add the field *months* to the rows. The directions for creating a pivot table are here [GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
-***Here is the pivot table produced:
+
+[]***Here is the pivot table produced:
 
 []By following the directions here, you create a line graph from the pivot table:[GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
-***Here is the line graph created:
+
+[]***Here is the line graph created:
 
 ### Deliverable Two
 I followed the directions at this link to create deliverable2: [GWU BOOTCAMP Deliverable 2 Challenge](https://courses.bootcampspot.com/courses/1020/assignments/20753?module_item_id=384168).
@@ -33,7 +35,8 @@ I followed the directions at this link to create deliverable2: [GWU BOOTCAMP Del
  []Then, I tallied the *Total Project's* by row of the **Outcomes Based on Goals** table column by summing the *number of successful*, *number of failed* and *number of canceled* plays per row. Then, I divided the *percentage successful*, *percentage failed*, *percentage canceled* columns each by the denominator, which is located in the *total projects* column for each row. This is an example of the Excel formula I used to calculate *percentage successful:* `B2/E2`.
  
  []Finally, I created a line chart by referencing these instructions [GWU Bootcamp Deliverable #2 Challenge] (https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
- ***Here is the line chart created:
+ 
+[] ***Here is the line chart created:
 
 ### Challenges
 
@@ -46,12 +49,12 @@ I followed the directions at this link to create deliverable2: [GWU BOOTCAMP Del
 
 []December has the least amount of successful plays launched. 
 
-**Here is the graphic depicting theater outcomes by launch date:**
+[]**Here is the graphic depicting theater outcomes by launch date:**
 
 ### Analysis of Outcomes Based on Goals
 []Least successful plays had financial goals of between $45,000 to $49,999.
 
-**Here is the graphic depicting play outcomes based on financial goals:**
+[]**Here is the graphic depicting play outcomes based on financial goals:**
 
 ### Limitations of this data set and recommendations for additional graphs
 []One limitation of the *kickstarter_challenge* data is that it only contains data for the years 2009 to 2017.
