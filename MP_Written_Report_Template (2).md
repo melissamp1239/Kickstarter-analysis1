@@ -17,10 +17,6 @@ Next, you need to create a pivot table. The directions are here for creating a p
 
 Then, you need to apply a filter to the pivot table on the *parent category*, and filter on *theater*.  And add the field *months* to the rows. The directions for creating a pivot table are here: [GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
 
-**Here is the pivot table produced:**
-
-![Pivot table](https://https://github.com/melissamp1239/Kickstarter-analysis1/blob/main/Theater_Outcomes.png)
-
 By following the directions here, you create a line graph from the pivot table:[GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
 
 **Here is the line graph created:**
@@ -42,7 +38,7 @@ Finally, I created a line chart by referencing these instructions [GWU Bootcamp 
  
 **Here is the line chart created:**
 
-![This is a line graph image]
+![This is a line graph image](https://github.com/melissamp1239/Kickstarter-analysis1/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges
 
@@ -57,14 +53,14 @@ December has the least amount of successful plays launched.
 
 **Here is the graphic depicting theater outcomes by launch date:**
 
-Kickstarter-analysis1/Theater_Outcomes_vs.Launch.png
+![This is a line graph image](https://github.com/melissamp1239/Kickstarter-analysis1/blob/main/Theater_Outcomes_vs.Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Least successful plays had financial goals of between $45,000 to $49,999.
 
 **Here is the graphic depicting play outcomes based on financial goals:**
 
-![This is a line graph image]
+![This is a line graph image](https://github.com/melissamp1239/Kickstarter-analysis1/blob/main/Outcomes_vs_Goals.png)
 
 Kickstarter-analysis1/Outcomes_vs_Goals.pn
 
