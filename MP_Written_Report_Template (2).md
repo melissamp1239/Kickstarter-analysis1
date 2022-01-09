@@ -11,7 +11,7 @@ The second deliverable's purpose was to create a visualization that portrays the
 ### Deliverable One
 I followed the directions for deliverable one at this link: [GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/assignments/20753?module_item_id=384168).
 
-[] First, you need to add a *years* column to the *Kickstarter_Challenge1.xls* worksheet. I calculated the *years* column by following the directions here: [Microsoft Support Page](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us).  You need to place in parenthesis next to equals year of the formula, the first cell referencing the 'Date created conversion'.  This **was not challenging** for me, however it could be challenging for someone else. 
+[] First, you need to add a *years* column to the *Kickstarter_Challenge1.xls* worksheet. I calculated the *years* column by following the directions here: [Microsoft Support Page](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us).  You need to place in parenthesis next to equals year formula, the first cell referencing the 'Date created conversion'.  This **was not challenging** for me, however it could be challenging for someone else. 
 
 [] Next, you need to create a pivot table. The directions are here for creating a pivot table: [GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-1-pivoting-toward-success). Place the pivot table in a worksheet called *Theater Outcomes by Launch Date*.
 
@@ -22,7 +22,7 @@ I followed the directions for deliverable one at this link: [GWU BOOTCAMP Delive
 ***Here is the line graph created:
 
 ### Deliverable Two
-I followed the directions to create deliverable two at this link: [GWU BOOTCAMP Deliverable 2 Challenge](https://courses.bootcampspot.com/courses/1020/assignments/20753?module_item_id=384168).
+I followed the directions at this link to create deliverable2: [GWU BOOTCAMP Deliverable 2 Challenge](https://courses.bootcampspot.com/courses/1020/assignments/20753?module_item_id=384168).
 
 [] First, go to the **Kickstarter_Challenge_1** worksheet in Excel.  Add a sheet to it and call it **Outcomes Based on Goals**. This sheet will eventually contain a table and also a graph, but first you'll create a data table.  Add to this new table the columns *Goal*, *Number Successful* etc. This is all mentioned in number two under *deliverable two* of the module 1 challenge. You can reference all of these direction at the *GWU BOOTCAMP Deliverable 2 Challenge* link mentioned in the first line of this section. 
 
