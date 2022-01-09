@@ -24,7 +24,7 @@ Then, you need to apply a filter to the pivot table on the *parent category*, an
 By following the directions here, you create a line graph from the pivot table:[GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
 
 **Here is the line graph created:**
-
+![This is a line graph image](https://github.com/melissamp1239/Kickstarter-analysis1/blob/main/Theater_Outcomes_vs.Launch.png)
 
 
 ### Deliverable Two
@@ -41,6 +41,8 @@ Then, I tallied the *Total Project's* by row of the **Outcomes Based on Goals** 
 Finally, I created a line chart by referencing these instructions [GWU Bootcamp Deliverable #2 Challenge] (https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
  
 **Here is the line chart created:**
+
+![This is a line graph image]
 
 ### Challenges
 
@@ -61,6 +63,8 @@ Kickstarter-analysis1/Theater_Outcomes_vs.Launch.png
 Least successful plays had financial goals of between $45,000 to $49,999.
 
 **Here is the graphic depicting play outcomes based on financial goals:**
+
+![This is a line graph image]
 
 Kickstarter-analysis1/Outcomes_vs_Goals.pn
 
