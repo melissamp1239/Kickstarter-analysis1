@@ -15,7 +15,7 @@ First, you need to add a *years* column to the *Kickstarter_Challenge1.xls* work
 
 Next, you need to create a pivot table. The directions are here for creating a pivot table: [GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-1-pivoting-toward-success). Place the pivot table in a worksheet called *Theater Outcomes by Launch Date*.
 
-Then, you need to apply a filter to the pivot table on the *parent category*, and filter on *theater*.  And add the field *months* to the rows. The directions for creating a pivot table are here [GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
+Then, you need to apply a filter to the pivot table on the *parent category*, and filter on *theater*.  And add the field *months* to the rows. The directions for creating a pivot table are here: [GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
 
 **Here is the pivot table produced:**
 
