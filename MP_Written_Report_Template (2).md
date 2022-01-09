@@ -25,7 +25,7 @@ By following the directions here, you create a line graph from the pivot table:[
 
 **Here is the line graph created:**
 
-Kickstarter-analysis1/Theater_Outcomes_vs.Launch.png
+
 
 ### Deliverable Two
 I followed the directions at this link to create deliverable2: [GWU BOOTCAMP Deliverable 2 Challenge](https://courses.bootcampspot.com/courses/1020/assignments/20753?module_item_id=384168).
