@@ -20,6 +20,7 @@ Then, you need to apply a filter to the pivot table on the *parent category*, an
 By following the directions here, you create a line graph from the pivot table:[GWU BOOTCAMP Deliverable 1 Challenge](https://courses.bootcampspot.com/courses/1020/pages/1-dot-3-2-charting-the-parent-category).
 
 **Here is the line graph created:**
+
 ![This is a line graph image](https://github.com/melissamp1239/Kickstarter-analysis1/blob/main/Theater_Outcomes_vs.Launch.png)
 
 
